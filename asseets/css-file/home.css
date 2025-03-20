@@ -70,6 +70,13 @@
 .sectionThree__bottom-pannel--right .p{
    padding-top: 10px;
 }
+.sectionThree__bottom-pannel--left, 
+.sectionThree__bottom-pannel--center, 
+.sectionThree__bottom-pannel--right {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+}
+
 .sectionThree__upper-panel{
     text-align: center;
 }
