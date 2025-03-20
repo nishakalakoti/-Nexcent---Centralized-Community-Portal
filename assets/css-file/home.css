@@ -29,6 +29,10 @@
  justify-items: center;
  
 }
+#sec-sec-up{
+    padding-top: 20px;
+    margin: 0;
+}
 .sectioneight .sectioneight-p {
     width: 70vw;
 }
@@ -56,6 +60,10 @@
     padding: 100px 0;
   text-align: center;
     justify-items: center;
+    
+}
+#sec-thir-up{
+    padding-top: 70px;
 }
 .sectionThree__bottom-pannel--left .p, 
 .sectionThree__bottom-pannel--center .p,
@@ -258,12 +266,12 @@ align-items: center;
     flex-direction: column;
     text-align: center;
     margin: 0;
-    width: 900px;
+    width: 800px;
     justify-items: center;
     align-items: center;
 }
 #last-sec{
-    padding-top: 5px;
+    padding-top: px;
  }
 .last-btn{
     align-self: center;
@@ -277,4 +285,5 @@ align-items: center;
         margin-top: 50px;
         font-size: 60px;
         font-weight: 600;
+        padding-bottom: 40px;
     }
